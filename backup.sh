@@ -1,6 +1,11 @@
 #!/bin/bash
 
 
+<< help
+This is a shell script to take backups 
+can also bes used with cron
+help
+
 <<info
 This shell script will take periodic backups
 
